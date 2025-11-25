@@ -1,1 +1,50 @@
 
+{
+  "questions": [
+    {
+      "id": "ct-001",
+      "topic": "CT",
+      "subject": "Devices",
+      "text": "What is the beam shape in the 1st generation CT scanner?",
+      "text_ar": "ما هو شكل الحزمة في الجيل الأول من جهاز CT؟",
+      "choices": ["Fan-shaped beam", "Pencil-shaped beam", "Circular beam", "Linear beam"],
+      "choices_ar": ["حزمة مروحية", "حزمة قلم", "حزمة دائرية", "حزمة خطية"],
+      "answer": 1,
+      "feedback": { "correct": "صحيح، الحزمة كانت Pencil-shaped.", "wrong": "الإجابة الصحيحة هي Pencil-shaped." },
+      "feedback_ar": { "correct": "صحيح، الحزمة كانت قلم.", "wrong": "الإجابة الصحيحة هي حزمة قلم." },
+      "image": null,
+      "emoji": "✅",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ct-002",
+      "topic": "CT",
+      "subject": "Devices",
+      "text": "How many detectors were used in the 2nd generation CT scanner?",
+      "text_ar": "كم عدد الكواشف في الجيل الثاني من جهاز CT؟",
+      "choices": ["One", "Two", "About 30", "More than 100"],
+      "choices_ar": ["واحد", "اثنان", "حوالي 30", "أكثر من 100"],
+      "answer": 2,
+      "feedback": { "correct": "صحيح، حوالي 30 كاشف.", "wrong": "الإجابة الصحيحة هي About 30." },
+      "feedback_ar": { "correct": "صحيح، حوالي 30 كاشف.", "wrong": "الإجابة الصحيحة هي حوالي 30." },
+      "image": null,
+      "emoji": "✅",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ct-003",
+      "topic": "CT",
+      "subject": "Modern",
+      "text": "What technology allows continuous rotation in CT scanners?",
+      "text_ar": "ما التقنية التي تسمح بالدوران المستمر في أجهزة CT؟",
+      "choices": ["Collimators", "Slip ring", "DAS", "Filter"],
+      "choices_ar": ["كوليماتور", "سليب رينغ", "DAS", "فلتر"],
+      "answer": 1,
+      "feedback": { "correct": "صحيح، Slip ring.", "wrong": "الإجابة الصحيحة هي Slip ring." },
+      "feedback_ar": { "correct": "صحيح، سليب رينغ.", "wrong": "الإجابة الصحيحة هي سليب رينغ." },
+      "image": null,
+      "emoji": "⚙️",
+      "difficulty": "easy"
+    }
+  ]
+}
